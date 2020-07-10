@@ -10,7 +10,7 @@ Marketplace the basic shopping app.
   <img
     alt="GoMarketplace"
     title="#GoMarketplace"
-    src="screensImg.png"
+    src="GoMarketplace.png"
     width="800px"
   />
 
